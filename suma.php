@@ -7,8 +7,7 @@
 $num1=10;
 $num2=20;
 $resultado= $num2+$num1;
-
-echo $resultado;
+echo "<h1>".$num1."+".$num2."=".$resultado."</h1>";
 echo   "<h1>".$resultado."</h1>";
 echo   '<h1>$resultado</h1>';
 
